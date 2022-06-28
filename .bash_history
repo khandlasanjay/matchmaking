@@ -1,0 +1,2 @@
+cd foody/
+clear
